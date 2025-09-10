@@ -12,6 +12,8 @@ Scrapes quotes and authors from http://quotes.toscrape.com/ using Selenium and B
 Selenium automates browser actions and can interact with dynamic web pages.
 
 BeautifulSoup is used for parsing and extracting data from static HTML content.
+
+Prints each quote along with its author to the console.
 """
 
 # 1. Start Selenium
