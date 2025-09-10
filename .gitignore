@@ -1,0 +1,98 @@
+# -------------------------------
+# macOS
+# -------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon\r\r
+
+# Thumbnails
+._*
+
+# Files that might appear on external volumes
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+
+# -------------------------------
+# Windows
+# -------------------------------
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# -------------------------------
+# Linux
+# -------------------------------
+*~
+.nfs*
+
+# -------------------------------
+# Python
+# -------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# pip cache
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+*.whl
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Testing
+.coverage
+.tox/
+.nox/
+.pytest_cache/
+pytestdebug.log
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+.history/
+
+# PyCharm
+.idea/
+*.iml
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# SQLite / DB files (optional)
+*.sqlite3
+*.db
+
+# -------------------------------
+# Other
+# -------------------------------
+*.env
+*.env.*
